@@ -36,7 +36,7 @@ mutation{
   deleteTask(input: {_id: "5dea99ca9822463f1ae5a0eb"})
 }
 
-# Fetch one mouste priority
+# Fetch by priority
 query{
   fetchTasks(input: {}){
     _id
