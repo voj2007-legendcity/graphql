@@ -3,7 +3,7 @@ docker build -t legendcity-graphql .
 docker run -p 5000:5000 legendcity-graphql
 
 
-# GaphQl link
+# GraphQl link
 # http://localhost:5000/api/v1/graphql
 
 
